@@ -1,5 +1,11 @@
-# Welcome to GitHub Desktop!
+Adds only purple bloons so far.
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+Bloon Types Added:
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+Purple:
+  Damage Immunites: MOAB Mauler, Juggernaut, Fire, Plasma
+  Status Immunites: Cripple MOAB
+  Speed: 297.5 (~121% the speed of a Pink Bloon)
+  Children: 3 Pink bloons
+  RBE: 16
+  First Appearence: Round 25
